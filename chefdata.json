@@ -1,0 +1,50 @@
+[
+    {
+      "id": "c001",
+      "picture": "https://i.postimg.cc/gkWfG8SZ/pexels-photo-2102934.jpg",
+      "name": "John Smith",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 50,
+      "likes": 200
+    },
+    {
+      "id": "c002",
+      "picture": "https://i.postimg.cc/przbqB02/pexels-photo-3814446.webp",
+      "name": "Maria Rodriguez",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 40,
+      "likes": 150
+    },
+    {
+      "id": "c003",
+      "picture": "https://i.postimg.cc/tCq2r5v2/pexels-photo-1587830.webp",
+      "name": "David Lee",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 80,
+      "likes": 300
+    },
+    {
+      "id": "c004",
+      "picture": "https://i.postimg.cc/TY3JjPhs/pexels-photo-3351927.webp",
+      "name": "Sophie Martin",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 20,
+      "likes": 75
+    },
+    {
+      "id": "c005",
+      "picture": "https://i.postimg.cc/jSJNvnTM/pexels-photo-887827.webp",
+      "name": "Robert Johnson",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 60,
+      "likes": 250
+    },
+    {
+      "id": "c006",
+      "picture": "https://i.postimg.cc/k4wtDxNg/pexels-photo-4253302.webp",
+      "name": "Linda Chen",
+      "yearsOfExperience": 7,
+      "numberOfRecipes": 30,
+      "likes": 120
+    }
+  ]
