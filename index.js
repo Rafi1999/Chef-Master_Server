@@ -1,15 +1,32 @@
 const express= require('express')
 
 const app = express();
+const cors = require('cors');
+const port = process.env.PORT || 5000;
 
-app.get("/", (res,req)=>{
-    res.json({message: 'Hello'});
+app.use(cors());
+const chefData = require('./data/chefData.json');
+
+app.get('/', (req, res) => {
+    res.send('Dragon is running')
 });
 
 app.get("/chefData", (res,req)=>{
-    res.send({result: 'Hello chef'});
+    res.send(chefData);
 });
 
-app.listen(5000,()=>{
-
+app.get('/chefData/:id', (req, res) => {
+    const id = req.params.id;
+    const selected = chefData.find(n => n._id === id);
+    res.send(selected)
 })
+
+app.listen(port, () => {
+    console.log(`Chef API is running on port: ${port}`)
+})
+
+
+
+
+
+

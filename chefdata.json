@@ -5,7 +5,27 @@
       "name": "John Smith",
       "yearsOfExperience": 10,
       "numberOfRecipes": 50,
-      "likes": 200
+      "likes": 200,
+      "recipes": [
+        {
+          "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+          "ingredients": ["500g Hilsa fish", "2 tbsp mustard paste", "2 green chilies", "1/2 tsp turmeric powder", "Salt to taste"],
+          "cookingMethod": "Marinate the fish with salt and turmeric powder. Heat oil in a pan and fry the fish until golden brown. Remove the fish from the pan. In the same pan, add mustard paste, green chilies, and a little water. Cook until the raw smell of mustard goes away. Add fried fish to the mustard sauce and cook for another 5 minutes. Serve hot with steamed rice.",
+          "rating": 4.8
+        },
+        {
+          "name": "Chingri Malai Curry (Prawn Coconut Curry)",
+          "ingredients": ["250g prawns", "1 cup grated coconut", "1 tsp turmeric powder", "1 tsp red chili powder", "2 tbsp mustard oil"],
+          "cookingMethod": "Heat mustard oil in a pan and add turmeric powder and red chili powder. Fry the prawns until they turn pink. Remove the prawns from the pan. In the same pan, add grated coconut and cook until it turns golden brown. Grind the coconut to a fine paste. Add the coconut paste to the pan, along with the fried prawns. Cook for 5 minutes on low heat. Serve hot with steamed rice or naan bread.",
+          "rating": 4.5
+        },
+        {
+          "name": "Mishti Doi (Sweet Yogurt)",
+          "ingredients": ["1 liter milk", "1 cup condensed milk", "1/2 cup yogurt culture", "1/2 tsp cardamom powder", "2 tbsp sugar"],
+          "cookingMethod": "Boil the milk in a heavy-bottomed pan. Reduce the heat and simmer until the milk reduces to half its quantity. Add condensed milk, cardamom powder, and sugar. Stir well until the sugar dissolves. Allow the mixture to cool down. Add yogurt culture and mix well. Pour the mixture into earthen pots or any other container. Cover and keep it in a warm place for 6-8 hours or until the yogurt sets. Refrigerate before serving.",
+          "rating": 4.7
+        }
+      ]
     },
     {
       "id": "c002",
@@ -13,7 +33,27 @@
       "name": "Maria Rodriguez",
       "yearsOfExperience": 8,
       "numberOfRecipes": 40,
-      "likes": 150
+      "likes": 150,
+      "recipes": [
+        {
+          "name": "Luchi (Bengali Fried Bread)",
+          "ingredients": ["2 cups all-purpose flour", "2 tbsp ghee", "1/2 tsp salt", "Water as needed", "Oil for frying"],
+          "cookingMethod": "In a mixing bowl, combine flour, salt, and ghee. Add water as needed to make a smooth dough. Knead the dough for a few minutes and cover it with a damp cloth. Let the dough rest for 15 minutes. Divide the dough into small balls. Roll each ball into a small disc. Heat oil in a frying pan. Fry the discs until they puff up and turn golden brown. Serve hot with any side dish of your choice.",
+          "rating": 4.3
+        },
+        {
+          "name": "Shukto (Mixed Vegetables in Mustard Gravy)",
+          "ingredients": ["1 potato, peeled and cubed", "1 sweet potato, peeled and cubed", "1 bitter gourd, sliced", "1 raw banana, peeled and cubed", "1 drumstick, cut into pieces", "1 eggplant, cubed", "1 tablespoon mustard oil", "1/2 teaspoon turmeric powder", "2 cups water", "1 tablespoon sugar", "Salt to taste", "For tempering: 1/2 teaspoon cumin seeds, 1/2 teaspoon nigella seeds, 1 dried red chili"],
+          "cookingMethod": "1. Heat mustard oil in a pan and add the cumin seeds, nigella seeds, and dried red chili. Fry for a few seconds.\n2. Add the vegetables, turmeric powder, and salt. Fry for 2-3 minutes.\n3. Add water, cover the pan and cook until the vegetables are soft.\n4. Add sugar and mix well.\n5. Serve hot with steamed rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Aloo Posto (Potatoes in Poppy Seed Gravy)",
+          "ingredients": ["3 potatoes, peeled and cubed", "1 onion, finely chopped", "1/2 cup poppy seeds, soaked in water for 30 minutes", "1 tablespoon mustard oil", "1/2 teaspoon turmeric powder", "1 green chili, slit", "Salt to taste"],
+          "cookingMethod": "1. Grind the poppy seeds with a little water to form a smooth paste.\n2. Heat mustard oil in a pan and fry the onions until golden brown.\n3. Add the potatoes and fry for 2-3 minutes.\n4. Add the poppy seed paste, turmeric powder, green chili, and salt. Fry for a minute or two.\n5. Add a cup of water and bring it to a boil.\n6. Reduce the heat and let it simmer for 10-12 minutes or until the potatoes are cooked.\n7. Serve hot with steamed rice.",
+          "rating": 4.6
+        }
+      ]
     },
     {
       "id": "c003",
@@ -21,7 +61,27 @@
       "name": "David Lee",
       "yearsOfExperience": 15,
       "numberOfRecipes": 80,
-      "likes": 300
+      "likes": 300,
+      "recipes":[
+        {
+          "name": "Shorshe Bata Maach (Mustard Fish)",
+          "ingredients": ["4 pieces of rohu fish", "2 tablespoons yellow mustard seeds", "1 tablespoon black mustard seeds", "2 green chilies", "1 tablespoon mustard oil", "1 teaspoon turmeric powder", "Salt to taste"],
+          "cookingMethod": "1. Grind the mustard seeds with a little water to form a smooth paste.\n2. Rub the fish with salt and turmeric powder.\n3. Heat mustard oil in a pan and fry the fish until golden brown. Keep it aside.\n4. In the same oil, add the mustard paste, turmeric powder, salt, and green chilies. Fry for a minute or two.\n5. Add a cup of water and bring it to a boil.\n6. Add the fried fish to the gravy and cook for another 5-7 minutes or until the gravy thickens.\n7. Serve hot with steamed rice.",
+          "rating": 4.7
+        },
+{
+"name": "Doi Begun (Eggplant in Yogurt Curry)",
+"ingredients": ["1 large eggplant, cut into cubes", "1 cup plain yogurt", "1 onion, finely chopped", "1 teaspoon ginger paste", "1 teaspoon garlic paste", "1 teaspoon cumin seeds", "1 teaspoon coriander powder", "1/2 teaspoon turmeric powder", "1 bay leaf", "2 green chilies, slit", "2 tablespoons mustard oil", "Salt to taste"],
+"cookingMethod": "1. Heat mustard oil in a pan and fry the eggplant cubes until golden brown. Keep it aside.\n2. In the same oil, add the cumin seeds, bay leaf, and green chilies. Fry for a few seconds.\n3. Add the onions and fry until golden brown.\n4. Add the ginger paste, garlic paste, coriander powder, turmeric powder, and salt. Fry for a minute.\n5. Add the fried eggplant to the pan and mix well.\n6. Whisk the yogurt and add it to the pan. Mix well.\n7. Cook on low heat for 10-12 minutes or until the curry thickens.\n8. Serve hot with steamed rice.",
+"rating": 4.5
+},
+{
+  "name": "Aloo Posto (Potatoes in Poppy Seed Gravy)",
+  "ingredients": ["3 potatoes, peeled and cubed", "1 onion, finely chopped", "1/2 cup poppy seeds, soaked in water for 30 minutes", "1 tablespoon mustard oil", "1/2 teaspoon turmeric powder", "1 green chili, slit", "Salt to taste"],
+  "cookingMethod": "1. Grind the poppy seeds with a little water to form a smooth paste.\n2. Heat mustard oil in a pan and fry the onions until golden brown.\n3. Add the potatoes and fry for 2-3 minutes.\n4. Add the poppy seed paste, turmeric powder, green chili, and salt. Fry for a minute or two.\n5. Add a cup of water and bring it to a boil.\n6. Reduce the heat and let it simmer for 10-12 minutes or until the potatoes are cooked.\n7. Serve hot with steamed rice.",
+  "rating": 4.6
+}
+      ]
     },
     {
       "id": "c004",
@@ -29,7 +89,27 @@
       "name": "Sophie Martin",
       "yearsOfExperience": 5,
       "numberOfRecipes": 20,
-      "likes": 75
+      "likes": 75,
+      "recipes":[
+        {
+          "name": "Shorshe Bata Maach (Mustard Fish)",
+          "ingredients": ["4 pieces of rohu fish", "2 tablespoons yellow mustard seeds", "1 tablespoon black mustard seeds", "2 green chilies", "1 tablespoon mustard oil", "1 teaspoon turmeric powder", "Salt to taste"],
+          "cookingMethod": "1. Grind the mustard seeds with a little water to form a smooth paste.\n2. Rub the fish with salt and turmeric powder.\n3. Heat mustard oil in a pan and fry the fish until golden brown. Keep it aside.\n4. In the same oil, add the mustard paste, turmeric powder, salt, and green chilies. Fry for a minute or two.\n5. Add a cup of water and bring it to a boil.\n6. Add the fried fish to the gravy and cook for another 5-7 minutes or until the gravy thickens.\n7. Serve hot with steamed rice.",
+          "rating": 4.7
+        },
+{
+"name": "Doi Begun (Eggplant in Yogurt Curry)",
+"ingredients": ["1 large eggplant, cut into cubes", "1 cup plain yogurt", "1 onion, finely chopped", "1 teaspoon ginger paste", "1 teaspoon garlic paste", "1 teaspoon cumin seeds", "1 teaspoon coriander powder", "1/2 teaspoon turmeric powder", "1 bay leaf", "2 green chilies, slit", "2 tablespoons mustard oil", "Salt to taste"],
+"cookingMethod": "1. Heat mustard oil in a pan and fry the eggplant cubes until golden brown. Keep it aside.\n2. In the same oil, add the cumin seeds, bay leaf, and green chilies. Fry for a few seconds.\n3. Add the onions and fry until golden brown.\n4. Add the ginger paste, garlic paste, coriander powder, turmeric powder, and salt. Fry for a minute.\n5. Add the fried eggplant to the pan and mix well.\n6. Whisk the yogurt and add it to the pan. Mix well.\n7. Cook on low heat for 10-12 minutes or until the curry thickens.\n8. Serve hot with steamed rice.",
+"rating": 4.5
+},
+{
+"name": "Shukto (Mixed Vegetables in Bitter Gravy)",
+"ingredients": ["1 bitter gourd, sliced", "1 potato, peeled and cubed", "1 raw banana, peeled and cubed", "1 sweet potato, peeled and cubed", "1 brinjal, cubed", "1 drumstick, cut into pieces", "1 tablespoon mustard oil", "1/2 teaspoon turmeric powder", "1 tablespoon milk", "Salt to taste"],
+"cookingMethod": "1. Heat mustard oil in a pan and fry all the vegetables until lightly browned. Keep it aside.\n2. In the same oil, add the turmeric powder and fry for a few seconds.\n3. Add the fried vegetables to the pan and mix well.\n4. Add a cup of water and bring it to a boil.\n5. Reduce the heat and let it simmer for 10-12 minutes or until the vegetables are cooked.\n6. Add the milk and salt. Mix well and cook for another minute or two.\n7. Serve hot with steamed rice.",
+"rating": 4.2
+}
+      ]
     },
     {
       "id": "c005",
@@ -37,7 +117,26 @@
       "name": "Robert Johnson",
       "yearsOfExperience": 12,
       "numberOfRecipes": 60,
-      "likes": 250
+      "likes": 250,
+      "recipes":[
+        {
+          "name": "Doi Maach (Fish in Yogurt Gravy)",
+          "ingredients": ["4 pieces of rohu fish", "1 cup yogurt", "1 onion, finely chopped", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1/2 teaspoon turmeric powder", "1 teaspoon cumin powder", "1 teaspoon coriander powder", "2 green chilies, slit", "2 tablespoons mustard oil", "Salt to taste"],
+          "cookingMethod": "1. Rub the fish with salt and turmeric powder and keep it aside.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Keep it aside.\n3. In the same oil, add the onions and fry until golden brown.\n4. Add the ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, and salt. Fry for a minute or two.\n5. Add the yogurt and green chilies. Fry for another 2-3 minutes.\n6. Add a cup of water and bring it to a boil.\n7. Add the fried fish to the gravy and cook for another 5-7 minutes or until the gravy thickens.\n8. Serve hot with steamed rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Bhaja Muger Dal (Roasted Moong Dal)",
+          "ingredients": ["1 cup moong dal", "1 onion, finely chopped", "1 tomato, finely chopped", "1 tablespoon ginger paste", "1 tablespoon cumin seeds", "1 bay leaf", "2-3 dried red chilies", "1/2 teaspoon turmeric powder", "1/2 teaspoon red chili powder", "1/4 teaspoon garam masala powder", "2 tablespoons ghee", "Salt to taste"],
+          "cookingMethod": "1. Dry roast the moong dal until it turns golden brown.\n2. Wash the dal thoroughly and pressure cook it with salt and turmeric powder until it's soft and mushy.\n3. Heat ghee in a pan and add the cumin seeds, bay leaf, and dried red chilies. Fry for a few seconds.\n4. Add the onions and fry until golden brown.\n5. Add the ginger paste, red chili powder, garam masala powder, and salt. Fry for a minute or two.\n6. Add the chopped tomatoes and fry until the tomatoes are soft.\n7. Add the cooked dal and mix well. If needed, add a little water to adjust the consistency.\n8. Let it simmer for a few minutes.\n9. Serve hot with steamed rice.",
+          "rating": 4.8
+        },  {
+          "name": "Begun Bhaja (Fried Eggplant)",
+          "ingredients": ["1 large eggplant, sliced", "1 teaspoon turmeric powder", "1 teaspoon red chili powder", "1 teaspoon cumin powder", "Salt to taste", "Mustard oil for frying"],
+          "cookingMethod": "1. Sprinkle turmeric powder, red chili powder, cumin powder, and salt on the eggplant slices.\n2. Heat mustard oil in a pan and fry the eggplant until golden brown on both sides.\n3. Drain excess oil on a paper towel.\n4. Serve hot with steamed rice and dal.",
+          "rating": 4.5
+        }
+      ]
     },
     {
       "id": "c006",
@@ -45,6 +144,26 @@
       "name": "Linda Chen",
       "yearsOfExperience": 7,
       "numberOfRecipes": 30,
-      "likes": 120
+      "likes": 120,
+      "recipes":[
+        {
+          "name": "Chingri Macher Malai Curry (Prawn Curry with Coconut Milk)",
+          "ingredients": ["500g prawns, deveined and cleaned", "1 onion, finely chopped", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1/2 cup coconut milk", "1 teaspoon cumin powder", "1 teaspoon coriander powder", "1/2 teaspoon turmeric powder", "2 green chilies, slit", "2 tablespoons mustard oil", "Salt to taste"],
+          "cookingMethod": "1. Heat mustard oil in a pan and add the onions. Fry until golden brown.\n2. Add the ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, and salt. Fry for a minute.\n3. Add the prawns and fry for 2-3 minutes.\n4. Add a cup of water and bring it to a boil.\n5. Reduce the heat and let it simmer for 5-7 minutes or until the prawns are cooked.\n6. Add the coconut milk and green chilies. Cook for another 2-3 minutes.\n7. Serve hot with steamed rice.",
+          "rating": 4.8
+        },
+        {
+          "name": "Luchi (Deep-Fried Puffed Bread)",
+          "ingredients": ["2 cups maida (all-purpose flour)", "1 tablespoon ghee", "1/2 teaspoon salt", "Water for kneading", "Oil for frying"],
+          "cookingMethod": "1. In a bowl, mix together the flour, ghee, and salt.\n2. Add water gradually and knead until you get a smooth and elastic dough.\n3. Cover the dough with a damp cloth and let it rest for 15-20 minutes.\n4. Divide the dough into small balls and roll each one into a small disc.\n5. Heat oil in a pan and fry the discs until they puff up and turn golden brown on both sides.\n6. Drain excess oil on a paper towel.\n7. Serve hot with any side dish of your choice.",
+          "rating": 4.9
+        },
+        {
+          "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+          "ingredients": ["500g Hilsa fish", "2 tbsp mustard paste", "2 green chilies", "1/2 tsp turmeric powder", "Salt to taste"],
+          "cookingMethod": "Marinate the fish with salt and turmeric powder. Heat oil in a pan and fry the fish until golden brown. Remove the fish from the pan. In the same pan, add mustard paste, green chilies, and a little water. Cook until the raw smell of mustard goes away. Add fried fish to the mustard sauce and cook for another 5 minutes. Serve hot with steamed rice.",
+          "rating": 4.8
+        }
+      ]
     }
   ]
