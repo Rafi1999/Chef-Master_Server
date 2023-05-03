@@ -6,6 +6,7 @@
       "yearsOfExperience": 10,
       "numberOfRecipes": 50,
       "likes": 200,
+      "description": "Chef John is boss at what he does. His bengali cuisine and biriyani is famous in both Bangladesh and outside. Foreigners who visit Bangladesh often have their food made by James. His fame is world-wide",
       "recipes": [
         {
           "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
@@ -30,10 +31,11 @@
     {
       "id": "c002",
       "picture": "https://i.postimg.cc/przbqB02/pexels-photo-3814446.webp",
-      "name": "Maria Rodriguez",
+      "name": "James Rodriguez",
       "yearsOfExperience": 8,
       "numberOfRecipes": 40,
       "likes": 150,
+      "description": "Chef James is one of the main reasons why the restaurant is firmly established among the top 10 restaurants in Dhaka. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
       "recipes": [
         {
           "name": "Luchi (Bengali Fried Bread)",
@@ -58,10 +60,11 @@
     {
       "id": "c003",
       "picture": "https://i.postimg.cc/tCq2r5v2/pexels-photo-1587830.webp",
-      "name": "David Lee",
+      "name": "David Lila",
       "yearsOfExperience": 15,
       "numberOfRecipes": 80,
       "likes": 300,
+      "description": "Lila is the head chef at Meridian in Dhaka. Her resume is impressive and includes stints with some of the most prestigious chefs in the country. Her creative take on European classics make her an indispensable member of the restaurant’s staff.",
       "recipes":[
         {
           "name": "Shorshe Bata Maach (Mustard Fish)",
@@ -86,10 +89,11 @@
     {
       "id": "c004",
       "picture": "https://i.postimg.cc/TY3JjPhs/pexels-photo-3351927.webp",
-      "name": "Sophie Martin",
+      "name": "Mubashir Alim",
       "yearsOfExperience": 5,
       "numberOfRecipes": 20,
       "likes": 75,
+      "description": "Chef Alim is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics.",
       "recipes":[
         {
           "name": "Shorshe Bata Maach (Mustard Fish)",
@@ -113,11 +117,12 @@
     },
     {
       "id": "c005",
-      "picture": "https://i.postimg.cc/jSJNvnTM/pexels-photo-887827.webp",
+      "picture": "https://i.postimg.cc/NG2mYNXx/shutterstock-1518533924-min.jpg",
       "name": "Robert Johnson",
       "yearsOfExperience": 12,
       "numberOfRecipes": 60,
       "likes": 250,
+      "description": "Robert is the head chef and owner of an award-winning restaurant in the heart of Chittagong. With his culinary degree and 15 years of cooking experience, he has been creating delicious meals for customers since 2006.",
       "recipes":[
         {
           "name": "Doi Maach (Fish in Yogurt Gravy)",
@@ -141,10 +146,11 @@
     {
       "id": "c006",
       "picture": "https://i.postimg.cc/k4wtDxNg/pexels-photo-4253302.webp",
-      "name": "Linda Chen",
+      "name": "Malang Al",
       "yearsOfExperience": 7,
       "numberOfRecipes": 30,
       "likes": 120,
+      "description": "Chef Al has been honing his skills in Spanish cuisine since his early days in Europe. With a passion for creating traditional flavours with a modern twist, he has established himself as an acclaimed chef in the city",
       "recipes":[
         {
           "name": "Chingri Macher Malai Curry (Prawn Curry with Coconut Milk)",
